@@ -1,0 +1,227 @@
+okay, new plan
+export var
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOMAD an airbender story
+
+Disclaimers - Start Game
+-This is an unofficial, not-for-profit, fan game, created as a love letter to Avatar: The Last Airbender.
+-This game contains spoilers for the storyline of Avatar: The Last Airbender, so watch it before playing this game!
+-This game has, by my own estimation, about a PG-13 rating.
+
+Breathe.
+Breathe in all the things you know. Hold onto them.
+Breathe out. Let them go. They change and are undone.
+Breathe in the world.
+Breathe it out.
+You are all that is and will be. You are everything and nothing. And in this meditation, you -
+(Title card: The southern air temple. meditation room b)
+Master Gyatso!
+"Chi-Yu! to what do we owe the pleasure?"
+The Fire Nation is in the foothills! They'll be at our gates soon!
+Well, we knew they were coming, Chi-Yu.
+We have to do something!
+
+We will, in due time. For now, care to join us in meditation?
+
+How can you just sit there? They've been imprisoning anyone they like, and killing the rest! We have to get ready!
+
+Listen. I know this is hard for you to understand. But this right here - meditation - is HOW we get ready. They cannot imprison us if our minds are free. Whether we win or lose, we will not be able to continue with our lives as we have done so until now. Change is inevitable, and meditation prepares us for this change.
+
+You and your mantras. If you really believed that "change is inevitable," you wouldn't be meditating right now like you do every day! I'm going to try to talk to Zhelan. He should have some sense - unlike you!
+Chi-Yu, it is wise to question your teachers. (smiling.)
+Students, it appears that Chi-Yu will not be joining us. Let's resume our practice. Breathe in. breathe out...
+
+
+Wait, Chi-Yu! Let me come with you!
+Not you too!
+...
+Fine, you may go. (under breath) Youths are so impossible...
+
+Hey, Chi-Yu. 
+Hey, Guiying. You know, if you wanted to skip class, there are easier ways of doing it.
+Huh? Oh, you're right. I just can't stand meditation, you know? Especially when I've been on night watch all week. Man, I'm tired...
+Yeah, well, go get some sleep. I think we'll need all the rest we can get.
+Sure thing. Hey, come find me when you're done talking to the masters, okay? I have something to tell you, after my nap.
+Okay, I'll try to stop by, if I have time.
+Haha, thanks. Hey, uh, if you need any help finding Zhelan, remember that there are maps all around. Most of the masters are probably in their studies, or something. Good luck!
+...
+He left before I could say goodbye. Must have something on his mind. Well, time to find Zhelan, to discuss our defenses against the Fire Nation...
+
+Chi-Yu: Hi, Wen!
+(the child is oddly silent.)
+Chi-Yu: Is... Is something wrong?
+Wen: aangy. where is he? why did he leave?
+Chi-Yu: ...
+To be honest, no one knows where the avatar went. But he'll be back soon, I just know it.
+Hey, keep your head up, okay?
+...
+(the child is silent once more.)
+
+
+still need: 
+
+(they're busy practicing fighting)
+
+promenade
+meditation room
+boys' dormitory "I don't have a key to the boys' dormitory. I suppose Guiying is in there, sleeping."
+girls' dormitory
+Gyatsu's study
+Zhelan's study
+
+Hi, Kiba.
+Chi-Yu! Listen: I think the people who fled have been captured.
+Oh no! Are you sure?
+Well, no. But I've been looking at this telescope all day, and I don't see them anymore.
+The land around this mountain is swarming with Fire Nation troops. I don't know why so many air nomads thought they could escape.
+If you'd like, you're welcome to take a look, Chi-Yu. I could use a fresh set of eyes on this.
+Look through the telescope?
+(yes) (no)
+Oh, hey, Chi-Yu. Want to look through the telescope?
+(yes) (no)
+That's strange... I've never seen an iceberg that round before.
+The sky is clear. Hard to believe that it's such a nice day, considering all that's happening...
+I'm glad these foothills are so tough to traverse on foot. Gives us a bit more time.
+There's the Fire Nation army. There are so many of them!
+Huh? That almost looks like... a dragon?
+	I think you're right. General Razza must be riding it.
+	But dragons are too noble to ally themselves with those Fire Nation bullies!
+	I thought the same thing. Maybe dragons can be evil, too.
+I didn't see them either, Kiba.
+Well, thanks for looking. I'll keep an eye out.
+Thanks, Kiba. Hey, if the Fire Nation makes it to you, promise me you'll surrender peacefully, okay?
+Do you honestly expect me to believe the fire nation can get past you??? AND gyatso???
+Kiba!
+Haha. Okay, I promise.
+Don't worry! I plan to fight them off before they ever get here. But if they do get here...
+I know, I know. Hey, come back any time you'd like to look through the telescope, okay?
+Will do!
+
+Chi-Yu! Come here; I have a present for you.
+Master Zhelan. The Fire Nation is here!
+Yes, and that's why I made you a present. Like I said. Take a look!
+Is - is that a weapon?
+Yes, Chi-Yu. You can airbend these arrows. The wind will catch in the sails, propelling them to your target. I've never known a better pilot than you, Chi-Yu. I know you will put these arrows to good use defending this temple.
+Thank you, Master Zhelan. I'm - I'm honored. I'll do my best!
+I know you will. Do you want to give them a try? I've set up some practice dummies on the southern promenade for you.
+Go there now Wait - wait
+
+On 2nd time. Chi-Yu! Do you wish to try your arrows now?
+
+Fade out, fade in
+So I just airbend these... like this?
+(Shoots randomly)
+Careful!
+Ha, sorry. Let me try again.
+Not bad!
+Thanks!
+(camera pans over)
+Now for the real test. Think you can hit all 10 of these targets, while flying on your kite staff?
+
+(minigame)
+
+
+(sky bison appears)
+You never cease to amaze me, Chi-Yu.
+...
+Thank you.
+Is something wrong?
+No, not with those arrows. They're amazing! I... I just can't believe we have to use them now.
+Chi-Yu, this is difficult for all of us. But if we fight with bravery and passion, we will win.
+I know. But it feels like everything has gone wrong. First the avatar disappears. Now the Fire Nation is here. What are we supposed to do?
+We surrender to the flow. You are a nomad - a traveler. Just as Lim-Lim carries you, we are all carried by the ground beneath our feet, from moment to moment. We are passengers of the world.
+Trying to stop the flow of the river is impossible. So you let it wash you away. With this mindset, there are no surprises for you.
+(braying)
+I think Lim-Lim agrees.
+Ha, I think you're right. Thank you, master. I sure hope that you and Lim-Lim knows what you're talking about...
+
+Well, here we are. Come back if you want to test your arrows again, okay?
+Will do. Thanks for everything, Zhelan.
+
+Chi-Yu! Over here!
+Guiying! You get much rest?
+Huh? Yeah. (Guiying keeps fidgeting.)
+You should take better care of yourself, kid. You look awful.
+"Kid"? Don't forget, you're only a year ahead of me, Chi-Yu. Listen - (music changes, words spell out slowly) I know where Aang is.
+What?
+I saw him leave by his room window when I was on night watch. He and his bison got caught in a pretty fierce storm, and then it looked like they were frozen in ice.
+I - I don't understand. Why haven't you told anyone?
+What difference does it make? One half-realized avatar won't win us this fight. Don't you see? The Fire Nation can't be stopped. But we can work with them! Share what we know!
+You numbskull! What on earth are you talking about?
+Come with me! We can tell Razza where Aang is. The Fire Nation will give us mercy!
+...
+Idiot. If you even consider that I'd work with the Fire Nation, after what they've done to us... I'm telling Gyatsu.
+It's too late. The attack is coming. Goodbye, Chi-Yu.
+Wait!
+...
+He's gone.
+Numbskull. I need to find Gyatsu.
+
+
+Chi-Yu! The attack is here. You must hide!
+(fire shoots overhead.)
+Quickly!
+Master Gyatsu, the Avatar has been found. And Guiying plans to tell the enemy where he is!
+(Shaking)
+What? Impossible.
+Chi-Yu, you have to stop him. I'll hold the army off here.
+But Master Gyatsu -
+Go! Now!
+... Goodbye, Gyatsu.
+(smiling) See you soon, Chi-Yu.
+(moves.)
+
+I have to get to Guiying! But there are so many Fire Nation troops in the way. Hope these arrows work!
+
+(minigame)
+
+Wait. What's that ahead?
+Oh no... Guiying...
+Chi-Yu. You were right. They didn't show mercy. Listen... Their general, Razza, knows where Aang is. Razza's headed... to the iceberg now...
+...
+Guiying...
+...
+Guiying, I don't think you're a numbskull.
+...
+(there is no response.)
+
+on further examination: (He's stopped fidgeting.)
+
+examining staff:
+I have to catch up to that dragon. This ends, now!
+
+Razza! You'll pay for what you've done!
+Razza: (glares) You insolent airbender. When I've eliminated the Avatar, there will be no opposition to the Fire Nation's supremacy.
+Chi-Yu: No. You aren't eliminating anyone. For all the air nomads - I'm taking you down!
+
+Ahhhhh!... (fade out and in, retry)
+
+Hmmph! That does it. Guards, on my word...
+Breathe in. breathe out.
+What are you saying?
+Change is inevitable.
+Fool! Guards - attack!
+(pulls up many of the arrows, which swirl around)
+I am a nomad - a traveler. There are no surprises for me.
+(as moving) (what - what are you doing) (fire and things swirl around)
+camera zooms out to dragon and sky bison (flare of fire and air)
+(movement of sun, more and more rapidly, then camera pans down to ice sphere)
+
+(first lines of ATLA play as "the end" appears in the sky)
